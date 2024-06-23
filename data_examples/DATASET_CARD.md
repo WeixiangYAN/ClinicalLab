@@ -134,8 +134,8 @@ The author list of the paper is an accurate list of specific contributors. Datas
 
 ### Licensing Information
 
-- ClinicalBench is released under the ClinicalBench Usage and Data Distribution License Agreement. Please be sure to comply with the terms of use.
-- The remaining code is released under the Apache-2.0 license. Please be sure to comply with the terms of use.
+- ClinicalBench is released under the [ClinicalBench Usage and Data Distribution License Agreement](https://github.com/WeixiangYAN/ClinicalLab/blob/main/DATA_LICENSE.pdf). Please be sure to comply with the terms of use.
+- The remaining code is released under the [Apache-2.0 license](https://github.com/WeixiangYAN/ClinicalLab/blob/main/CODE_LICENSE). Please be sure to comply with the terms of use.
 
 ### Citation Information
 
