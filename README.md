@@ -25,6 +25,15 @@ In the appendix of our <a href="https://arxiv.org/pdf/2406.13890">paper</a> and 
 
 For more information about the dataset, please refer to the [DATA CARD](./data_examples/DATASET_CARD.md).
 
+## Dependencies
+
+You can install everything all at once
+```
+conda create -n clinicallab python=3.9 -y
+pip install -r requirements.txt
+```
+
+We also provide an [environment.yaml](./environment.yaml) file for your use.
 
 ## Code
 
