@@ -45,7 +45,7 @@ Chinese and English
 
 ## Dataset Structure
 
-The ClinicalBench dataset adopts an application access system. After users agree to the [ClinicalBench Usage and Data Distribution License Agreement](././DATA_LICENSE.pdf) and submit an application, we will send the dataset to the email address provided by the user within 48 hours. You can apply for access to and use of the ClinicalBench dataset at the following URL: [https://forms.gle/Tkq5UTinW7bBB6388](https://forms.gle/Tkq5UTinW7bBB6388)
+The ClinicalBench dataset adopts an application access system. After users agree to the [ClinicalBench Usage and Data Distribution License Agreement](DATA_LICENSE.pdf) and submit an application, we will send the dataset to the email address provided by the user within 48 hours. You can apply for access to and use of the ClinicalBench dataset at the following URL: [https://forms.gle/Tkq5UTinW7bBB6388](https://forms.gle/Tkq5UTinW7bBB6388)
 
 ### Data Fields
 
