@@ -4,10 +4,10 @@ ClinicalBench: An End-to-End, Real-Case-based, Data-Leakage-Free Benchmark for M
 
 ## Table of Contents
 
-- [Dataset Description](##dataset-description)
-  - [Dataset Summary](###dataset-summary)
+- [Dataset Description](#dataset-description)
+  - [Dataset Summary](#dataset-summary)
   - [Supported Tasks](#supported-tasks)
-  - [Languages](###languages)
+  - [Languages](#languages)
 - [Dataset Structure](#dataset-structure)
   - [Data Fields](#data-fields)
   - [Data Instances](#data-instances)
