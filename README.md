@@ -23,6 +23,8 @@
 
 In the appendix of our <a href="https://arxiv.org/pdf/2406.13890">paper</a> and the [data_examples](./data_examples) folder, we present examples from the ClinicalBench dataset, including both Chinese and English versions. Please note that **accessing the ClinicalBench dataset requires an application**. If you wish to access the full dataset, please read the [licensing documentation](./DATA_LICENSE.pdf) and submit an [access request](https://forms.gle/Tkq5UTinW7bBB6388). We will send the data to your specified email address within 48 hours.
 
+For more information about the dataset, please refer to the [DATA CARD](./data_examples/DATASET_CARD.md).
+
 
 ## Code
 
