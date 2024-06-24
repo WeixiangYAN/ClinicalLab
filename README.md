@@ -37,6 +37,23 @@ We also provide an [environment.yaml](./environment.yaml) file for your use.
 
 ## Code
 
+### Inference
+
+```
+python code/inference/eval.py --model_name your_model_name --model_path your_model_path --api_key your_api_key --data_load_name data_examples/data_example_en.json
+```
+
+Using ```GPT-4``` as an example
+```
+python code/inference/eval.py --model_name gpt4 --api_key your_api_key --data_load_name data_examples/data_example_en.json
+```
+
+Using ```internlm2chat``` as an example
+```
+python code/inference/eval.py --model_name internlm2chat --model_path your_model_path --data_load_name data_examples/data_example_en.json
+```
+
+### Evaluation
 Coming soon...
 
 
