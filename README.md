@@ -34,7 +34,9 @@ pip install -r requirements.txt
 ```
 
 We also provide an [environment.yaml](./environment.yaml) file for your use.
-
+```
+conda env create -f environment.yaml
+```
 ## Code
 
 ### Inference
