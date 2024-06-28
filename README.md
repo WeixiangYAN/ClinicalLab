@@ -66,14 +66,11 @@ Coming soon...
 Please cite the paper if you use the data or code from ClinicalLab.
 
 ```
-@misc{yan2024clinicallabaligningagentsmultidepartmental,
-      title={ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World}, 
-      author={Weixiang Yan and Haitian Liu and Tengxiao Wu and Qian Chen and Wen Wang and Haoyuan Chai and Jiayi Wang and Weishan Zhao and Yixin Zhang and Renjun Zhang and Li Zhu},
-      year={2024},
-      eprint={2406.13890},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2406.13890}, 
+@article{yan2024clinicallab,
+  title={ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World},
+  author={Yan, Weixiang and Liu, Haitian and Wu, Tengxiao and Chen, Qian and Wang, Wen and Chai, Haoyuan and Wang, Jiayi and Zhao, Weishan and Zhang, Yixin and Zhang, Renjun and others},
+  journal={arXiv preprint arXiv:2406.13890},
+  year={2024}
 }
 ```
 
