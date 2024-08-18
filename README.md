@@ -1,7 +1,7 @@
 # ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World
 
 <div align="center">
-    <a href=""><img src="./images/leaderboard.png">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://haitianliu22.github.io/clinical-lab/index.html"><img src="./images/leaderboard.png">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="https://arxiv.org/pdf/2406.13890">📄 Paper</a> &nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="https://forms.gle/Tkq5UTinW7bBB6388"><img src="./images/google_drive.png"> Apply for data access</a>
 </div>
