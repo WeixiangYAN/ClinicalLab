@@ -1,11 +1,10 @@
 # ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World
 
 <div align="center">
-    <a href="https://haitianliu22.github.io/clinical-lab/index.html"><img src="./images/leaderboard.png">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://arxiv.org/pdf/2406.13890">📄 Paper</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://forms.gle/Tkq5UTinW7bBB6388"><img src="./images/google_drive.png"> Apply for data access</a>
+  <a href="https://haitianliu22.github.io/clinical-lab/index.html">🌐 Website</a> &nbsp;|&nbsp;
+  <a href="https://arxiv.org/abs/2406.13890">📄 Paper</a> &nbsp;|&nbsp;
+  <a href="./ClinicalBench%20Dataset.zip">📦 Dataset</a>
 </div>
-
 <br>
 
 **ClinicalLab**, a comprehensive clinical diagnosis agent alignment suite. ClinicalLab includes **ClinicalBench**, an end-to-end multi-departmental clinical diagnostic evaluation benchmark for evaluating medical agents and LLMs. ClinicalBench is based on real cases that cover 24 departments and 150 diseases. ClinicalLab also includes four novel metrics (**ClinicalMetrics**) for evaluating the effectiveness of LLMs in clinical diagnostic tasks. **ClinicalAgent**, an end-to-end clinical agent that aligns with real-world clinical diagnostic practices. Our findings demonstrate the importance of aligning with modern medical practices in designing medical agents.
