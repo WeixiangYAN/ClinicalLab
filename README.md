@@ -10,6 +10,7 @@
 **ClinicalLab**, a comprehensive clinical diagnosis agent alignment suite. ClinicalLab includes **ClinicalBench**, an end-to-end multi-departmental clinical diagnostic evaluation benchmark for evaluating medical agents and LLMs. ClinicalBench is based on real cases that cover 24 departments and 150 diseases. ClinicalLab also includes four novel metrics (**ClinicalMetrics**) for evaluating the effectiveness of LLMs in clinical diagnostic tasks. **ClinicalAgent**, an end-to-end clinical agent that aligns with real-world clinical diagnostic practices. Our findings demonstrate the importance of aligning with modern medical practices in designing medical agents.
 
 ## 🌈 Update
+* **[2026.11.06]** ClinicalBench has completed 206 distributions, and we released full dataset!
 * **[2024.07.15]** ClinicalBench has completed 30 distributions. Please ⭐ our project before requesting data! Thanks.
 * **[2024.06.19]** 🎉🎉🎉 ClinicalLab is published！🎉🎉🎉
 
